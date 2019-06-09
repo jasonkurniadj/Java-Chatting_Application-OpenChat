@@ -10,6 +10,6 @@ OpenChat is a chat application that can connect users in the available network. 
 | Roslynlia | 2101628355 |
 | Daniel | 2101634911 |
 
-For more information please contact me at [jasonkurniadj@yahoo.com](mailto:jasonkurniadj@yahoo.com?cc=jasonkurniadj@gmail.com&subject=[GitHub]%20Java-Chatting_Application-OpenChat)
+For more information please contact me at [jasonkurniadj@yahoo.com](mailto:jasonkurniadj@yahoo.com?cc=jasonkurniadj@gmail.com&subject=[GitHub]%20Java-OpenChat)
 
 > QXY
