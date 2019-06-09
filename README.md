@@ -1,7 +1,8 @@
 # OpenChat
-OpenChat is a chat application that can connect users in the available network. Users must register in advance so they can login and use the features.
-
 ` This project is intended for COMP6175 - Object Oriented Programming (LA08-LEC) assignments at BINUS University in 2017, even semester `
+
+## Overview
+OpenChat is a chat application that can connect users in the available network. Users must register in advance so they can login and use the features.
 
 ## Author
 | Name | NIM |
